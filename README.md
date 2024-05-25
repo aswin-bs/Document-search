@@ -65,17 +65,7 @@ Once the application is running, follow these steps to use it:
 2. **Load Repository**: Click the "Load Repository" button to clone and process the repository.
 3. **Ask Questions**: Enter questions in the provided text input field to get answers based on the repository's content.
 
-## Contributing
-
-Contributions to improve the GitHub Repository Q&A App are welcome. Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
-
-## License
+##License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
