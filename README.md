@@ -65,7 +65,7 @@ Once the application is running, follow these steps to use it:
 2. **Load Repository**: Click the "Load Repository" button to clone and process the repository.
 3. **Ask Questions**: Enter questions in the provided text input field to get answers based on the repository's content.
 
-##License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
