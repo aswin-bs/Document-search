@@ -24,8 +24,7 @@ To set up and run this application, follow these steps:
 Start by cloning this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/github-repo-qa.git
-cd github-repo-qa
+https://github.com/aswin-bs/Github_Repo_Qna.git
 ```
 
 ### Install Dependencies
